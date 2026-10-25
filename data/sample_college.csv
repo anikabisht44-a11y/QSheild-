@@ -1,0 +1,7 @@
+asset_name,data_category,confidentiality_years,algorithm,migration_complexity,migration_years,algorithm_source
+Student academic records,Student records,40,RSA-2048,High,3,user_estimate
+Research data and IP,Research,20,ECC P-256,Medium,2,user_estimate
+Alumni contact database,Personal data,10,ECC P-256,Low,1,user_estimate
+Fee payment records,Financial,8,RSA-2048,Medium,2,user_estimate
+Exam question papers,Academic confidential,1,RSA-2048,Low,1,user_estimate
+Internal knowledge wiki,Internal documents,3,AES-256,Low,1,user_estimate

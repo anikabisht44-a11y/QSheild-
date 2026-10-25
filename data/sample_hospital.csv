@@ -1,0 +1,4 @@
+asset_name,data_category,confidentiality_years,algorithm,migration_complexity,migration_years,algorithm_source
+Patient medical records,Sensitive health information,30,RSA-2048,High,3,user_estimate
+Confidential research data,Research,20,RSA-2048,Medium,2,user_estimate
+Temporary application logs,Operational logs,1,RSA-2048,Low,1,user_estimate
